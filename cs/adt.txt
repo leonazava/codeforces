@@ -1,0 +1,4 @@
+Abstract Data Types (ADTS)
+    example: List
+    define data and operations but no concrete implementations
+        example: Array
