@@ -48,4 +48,4 @@ list.addNew(new Node(2));
 list.addNew(new Node(3));
 list.addNew(new Node(4));
 list.addNew(new Node(5));
-console.log(list.getLast());
+// console.log(list.getLast());
